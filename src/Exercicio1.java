@@ -16,7 +16,7 @@ public class Exercicio1 {
 		System.out.println(semEspaco);
 		
 		String vazia = "";
-		if(vazia.isBlank()) {
+		if(vazia.isEmpty()) {
 			System.out.println("A String esta vazia");
 		}
 		
